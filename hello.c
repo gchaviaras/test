@@ -5,10 +5,6 @@ int main(){
 	getchar();
 
   printf("Hello World\n");
-<<<<<<< HEAD
-    scanf("%d" , &x);
-  return 0;
-=======
+    scanf("%d" , &x
   return 1;
->>>>>>> master
 }
